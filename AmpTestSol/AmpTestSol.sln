@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmpTestSol", "AmpTestSol\AmpTestSol.csproj", "{C77F1252-9332-4BC1-83EC-C204957A001F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmpTestSol.Web", "AmpTestSol.Web\AmpTestSol.Web.csproj", "{20DEFC25-8A35-4D38-AB10-79D984BBB9C8}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C77F1252-9332-4BC1-83EC-C204957A001F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C77F1252-9332-4BC1-83EC-C204957A001F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C77F1252-9332-4BC1-83EC-C204957A001F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C77F1252-9332-4BC1-83EC-C204957A001F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20DEFC25-8A35-4D38-AB10-79D984BBB9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20DEFC25-8A35-4D38-AB10-79D984BBB9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DEFC25-8A35-4D38-AB10-79D984BBB9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
